@@ -1,0 +1,5 @@
+{
+  "name": "Hello Farm",
+  "description": "Plateforme agricole ultra-premium intégrant IoT, drones et IA pour l'agriculture camerounaise.",
+  "requestFramePermissions": ["geolocation", "notifications"]
+}
